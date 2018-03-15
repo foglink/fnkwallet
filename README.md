@@ -1,0 +1,2 @@
+# FnkWallet
+The FNK wallet
